@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
-
-
-
-/*O código abaixo indica as cores que iremos utilizar no projeto
-Para isso:
-Entre no seguinte endereço https://colorhunt.co/
-Procure uma paleta de seu agrado e digite os códigos hexadecimais das cores.
-*/
 :root {
     --bg-color: #222831;
     --primary-color: #DDDDDD;
